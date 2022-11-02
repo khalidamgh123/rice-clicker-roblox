@@ -24,9 +24,9 @@
 
 		"ironsource_id": "12824078d",
 
-		"interstitial_yandex": "R-M-1962580-2",
-		"banner_yandex": "R-M-1962580-3",
-		"native_yandex": "R-M-1962580-1",
+		"interstitial_yandex": "R-M-2002831-3",
+		"banner_yandex": "R-M-2002831-1",
+		"native_yandex": "R-M-2002831-2",
 		"rewarde_yandex": "R-M-1962580-4",
 
 		"interstitial_yandex_1": "R-M-1962580-2",
